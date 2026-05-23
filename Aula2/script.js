@@ -9,6 +9,6 @@ nome = "Maria"; //Isso vai dar erro, pois nome é uma constante
 
 //Nome de variáveis
 let idade = 30; //camelCase
-let nomeCompleto = "João Silva"; //string  
-let precoTotal = 200.50; //float
-let estaDisponivel = true; //booleano
+let nomeCompleto = "João Silva"; 
+let precoTotal = 200.50; 
+let estaDisponivel = true;
