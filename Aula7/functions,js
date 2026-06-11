@@ -1,0 +1,17 @@
+//Declaracao
+function calcularTotal(preco, quantidade) {
+    const total = preco * quantidade;
+    return total;
+}
+
+//Chamar
+const resultado = calcularTotal(1500, 3);
+console.log(resultado); //4500
+
+//Parâmetros com valor padrão
+function aplicarDesconto(preco, pct=10) {
+    return preco * (1 - pct / 100);
+}
+
+console.log(aplicarDesconto(1000)); //900
+console.log(aplicarDesconto(1000, 20)); //800
