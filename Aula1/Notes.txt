@@ -1,0 +1,8 @@
+Plataforma de comunidade de programadores
+- Stack overflow
+
+Quem usa?
+-Google, Youtube, Netflix, etc
+
+Linguagens que usam javascript
+- angular
